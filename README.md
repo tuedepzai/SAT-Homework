@@ -4,4 +4,4 @@
 * Cái repository này gồm các file nộp bài tập của các ngày
 
 
-![](https://github.com/tuedepzai/Dast-Homework/blob/master/ShikanokoNokonokoKoshitantan.gif)
+![](./ShikanokoNokonokoKoshitantan.gif)
